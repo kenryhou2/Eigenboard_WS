@@ -2,17 +2,16 @@
 <CyXmlSerializer>
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
-<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Eigenboard_WS" persistent="Eigenboard_WS.cywrk" platform="NOT_USED">
-<current_project name=".\Eigenboard_Bootloader_Host.cydsn\Eigenboard_Bootloader_Host.cyprj" />
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="UART_Bootloader" persistent="UART_Bootloader.cywrk" platform="NOT_USED">
+<current_project name=".\UART_Bootloader.cydsn\UART_Bootloader.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
-<v>.\Eigenboard_Bootloader.cydsn\Eigenboard_Bootloader.cyprj</v>
-<v>.\Bootloadable_ex1.cydsn\Bootloadable_ex1.cyprj</v>
-<v>.\Bootloadable_ex2.cydsn\Bootloadable_ex2.cyprj</v>
-<v>.\Eigenboard_Bootloader_Host.cydsn\Eigenboard_Bootloader_Host.cyprj</v>
+<v>.\Bootloadable1.cydsn\Bootloadable1.cyprj</v>
+<v>.\Bootloadable2.cydsn\Bootloadable2.cyprj</v>
+<v>.\UART_Bootloader.cydsn\UART_Bootloader.cyprj</v>
 </projects>
-<workspace_id v="4c4a6107-70ff-4396-adba-8b3bed0c98e5" />
+<workspace_id v="c7364880-0571-4e8d-8ebf-ae8ca1e40654" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />
 <WriteAppMarketingVersionLastSavedWith v="4.2" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
